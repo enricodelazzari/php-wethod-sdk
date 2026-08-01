@@ -23,7 +23,7 @@
         "saloonphp/pagination-plugin": "^2.3"
     },
     "require-dev": {
-        "pestphp/pest": "^4.0",
+        "pestphp/pest": "^5.0",
         "laravel/pint": "^1.0",
         "crescat-io/saloon-sdk-generator": "^1.6",
         "spatie/ray": "^1.28"
